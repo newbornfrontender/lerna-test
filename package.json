@@ -5,9 +5,6 @@
   "repository": "git@github.com:newbornfrontender/lerna-test.git",
   "author": "Infant Frontender <newbornfrontender@gmail.com>",
   "license": "MIT",
-  "dependencies": {
-    "logger": "1.0.0"
-  },
   "devDependencies": {
     "lerna": "^3.13.1"
   }
